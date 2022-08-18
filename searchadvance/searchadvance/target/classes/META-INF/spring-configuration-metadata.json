@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "crts.app.web-console",
+      "type": "com.fpt.searchadvance.config.TableMapping",
+      "sourceType": "com.fpt.searchadvance.config.TableMapping"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

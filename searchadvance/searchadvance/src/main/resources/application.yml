@@ -1,0 +1,10 @@
+crts:
+ app:
+  webconsole: 
+    -  screenId: dealer
+       column: 
+            - countryId : country_id
+            - code: code
+            - name: name
+            - articleId: mst_article.id
+       from:  mst_dealer join mst_article ON (mst_dealer.provinceId = mst_article.id)
